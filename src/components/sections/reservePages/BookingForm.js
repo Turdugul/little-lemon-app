@@ -203,7 +203,7 @@ export default function ReservationForm(props) {
           </p>
         </small>
         <button type="submit" className="action-button">
-          Book Table
+          Book a table
         </button>
       </div>
     </form>
