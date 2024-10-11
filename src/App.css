@@ -2,7 +2,10 @@
   font-family: "Markazi Text", "Karla", serif;
   box-sizing: border-box;
 }
-
+.error {
+  color: red;
+  font-size: 0.8rem;
+}
 label,
 input,
 select,
@@ -420,6 +423,7 @@ footer > menu {
 .reservation-form {
   padding: 2rem 0 0.5rem 0;
   text-align: center;
+ 
 }
 
 .reservation-form > div {
